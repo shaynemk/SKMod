@@ -1,0 +1,20 @@
+[
+{
+  "modid": "SKMod",
+  "name": "SK's Mod",
+  "description": "A mod from learning how to mod.",
+  "version": "",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "shaynemk"
+  ],
+  "credits": "coded by shaynemk",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
